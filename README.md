@@ -28,3 +28,7 @@ terminará sua execução.
 
 Assim como na questão 2, haverá validações para não conformidades na entrada, como fora do intervalo ou de natureza errada, como:
 ![image](https://user-images.githubusercontent.com/29410618/189128453-b8758941-1346-4c89-a8d2-becb2710ea12.png)
+
+Os demais projetos se encontram nos:
+https://github.com/rafapiazza/interviewVivo/tree/master
+https://github.com/rafapiazza/interviewVivo3/tree/master
